@@ -22,12 +22,28 @@
 
 ---
 
+### Freelance Linguistic Specialist (Part-Time) 
+**Duration:** September 2020 – Present  
+
+- Contributed to multiple transcription projects, including:  
+  - **Aztec LOFT Malay Transcription Project (Malacca)** for Appen Butler Ltd. (September 2020 – March 2021)  
+  - **Aragorn_Malay Short Audio Transcription Project_2024** for Appen Butler Ltd. (February 2024 – July 2024)
+  - **Bryant CiCi Malay Transcription Project** for Appen Butler Ltd. (November 2024 – Jan 2025)
+  - **Aragorn Malay transcription project** for Appen Butler Ltd. (Jan 2025 – Present)   
+- Transcribed and annotated audio files in Malay using tools such as **LOFT**.  
+- Maintained consistent transcription accuracy rates exceeding **95%**, meeting or exceeding client benchmarks.  
+- Prepared analysis reports and managed feedback to improve transcription quality and maintain updated documentation.  
+- Assisted clients with inquiries and ensured adherence to project-specific guidelines.
+- Delivered over 100 hours of transcriptions, supporting the development of AI-driven language models.  
+
+---
+
 ### Search Engine Optimization Analyst  
 **Duration:** January 2021 – December 2022  
 
 - Conducted research and provided feedback to measure the accuracy, usefulness, and relevance of web search results.  
 - Consistently scored above **90%** in monthly blind exams, showcasing expertise and precision.  
-- Managed multiple projects with strict deadlines while adapting to diverse client guidelines.  
+- Managed multiple projects with strict deadlines while adapting to diverse client guidelines.
 
 ---
 
