@@ -4,8 +4,8 @@
 
 ## Maklumat Peribadi
 - **Emel:** mardhiatulizzaty@gmail.com
-- **Telefon:** 01151550807
 - **LinkedIn:** [Mardhiatul Izzaty](https://www.linkedin.com/in/mardhiatul-izzaty/)
+- **Github:** [mardhiatulizzaty](https://github.com/mardhiatulizzaty)
 
 ---
 
