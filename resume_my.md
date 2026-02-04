@@ -17,8 +17,9 @@
 
 - Menyediakan dan menguruskan dua belanjawan (RM 20,000 dan RM 90,000) menggunakan perisian Excel dan GRP Financial Management.  
 - Memperkemas proses rekonsiliasi kewangan untuk memastikan laporan disiapkan tepat pada masanya.  
-- Mengurus surat-menyurat, mengemas kini data, serta pembersihan dan pengesahan data kpi untuk tujuan analisis.  
-- Mencapai skor **92.1%** dalam Laporan Penilaian Prestasi Tahunan tahun pertama perkhidmatan.  
+- Mengurus surat-menyurat, mengemas kini data, serta pembersihan dan pengesahan data kpi untuk tujuan analisis.
+- Diiktiraf atas prestasi kerja cemerlang dengan skor **melebihi 90%** dalam Laporan Penilaian Prestasi Tahunan (LNPT) bagi dua tahun berturut-turut.  
+ 
 
 ---
 
@@ -56,9 +57,10 @@
 - Bahasa Inggeris (Fasih)  
 
 ---
-
 ## Pencapaian
-- Mencapai skor **92.1%** dalam Laporan Penilaian Prestasi Tahunan (2023).    
+
+- Mencapai skor **91.22%** dalam *Laporan Penilaian Prestasi Tahunan (Pentadbiran)* bagi tahun **2023**.  
+- Mencapai skor **92.61%** dalam *Laporan Penilaian Prestasi Tahunan (Pentadbiran)* bagi tahun **2024**  
 
 ---
 
